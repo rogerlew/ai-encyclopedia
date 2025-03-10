@@ -1,5 +1,7 @@
 # U.S.-China Cyber Espionage, Trade, and Tech Competition Overview
 
+[ChatGPT Deep research](https://chatgpt.com/share/67cd4c18-2db0-8009-a435-30e4469be160)
+
 ## 1. Historical Context: U.S.-China Economic Ties and Tech Competition  
 ### Early Engagement (1970s–1980s)  
 The United States and China re-established relations in the 1970s, setting the stage for economic and technological engagement. In 1979, Deng Xiaoping’s visit to the U.S. led to the first bilateral **Science and Technology Cooperation Agreement**, reflecting a mutual interest in scientific exchange. Throughout the 1980s, China’s economic reforms under Deng opened the door to foreign trade and investment. The U.S. began exporting technology and expertise to China, while China sought to modernize by importing advanced equipment and know-how. 
